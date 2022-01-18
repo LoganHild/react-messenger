@@ -25,7 +25,7 @@ export default function OpenConversation() {
                                 className="my-1 d-flex flex-column"
                             >
                                 <div 
-                                    className={`rounded px-2 py-1 ${message.fromMe ? 'bg-secondary text-white' : 'border'}`}>
+                                    className={`rounded px-2 py-1 ${message.fromMe ? 'bg-primary text-white' : 'border'}`}>
                                     {message.text}
                                 </div>
                                 <div className={`text-muted small ${message.fromMe ? 'text-right' : ''}`}>
