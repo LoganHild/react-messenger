@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-messenger/static/css/main.1a8a0596.css",
+    "main.js": "/react-messenger/static/js/main.899582dd.js",
+    "static/js/787.db9b214f.chunk.js": "/react-messenger/static/js/787.db9b214f.chunk.js",
+    "index.html": "/react-messenger/index.html",
+    "main.1a8a0596.css.map": "/react-messenger/static/css/main.1a8a0596.css.map",
+    "main.899582dd.js.map": "/react-messenger/static/js/main.899582dd.js.map",
+    "787.db9b214f.chunk.js.map": "/react-messenger/static/js/787.db9b214f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.899582dd.js"
+  ]
+}
